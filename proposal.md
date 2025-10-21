@@ -32,7 +32,7 @@ Check the following boxes when complete or add a note below if you encountered a
 - [X] I have installed the software
 - [X] I have run at least one example
 - [X] I have run the test suite
-- [ ] The test suite passes (Note 1)
+- [X] The test suite passes (Note 1 & 2)
 
 
 ### Notes/concerns/risks
@@ -42,7 +42,9 @@ If the project requires a contributor license agreement or other procedural step
 "None at this time" is acceptable for this question.
 
 (Note 1) The test suite will not run, I am not sure what it is. But my most likely guess is that there is not enough memory to run the whole suite on coding.csel.io environment which is what is causing the issue. 
-None at this time for the contributor license agreement
+None at this time for the contributor license agreement.
+
+(Note 2) The test suite successfully ran on my local environment and I plan on pushing it after I have finished my presentation notebook. 
 
 #### Note on copyright
 
